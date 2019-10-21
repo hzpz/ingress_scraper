@@ -4,3 +4,4 @@ beautifulsoup4
 pymysql
 soupsieve
 discord-webhook
+pyTelegramBotAPI
